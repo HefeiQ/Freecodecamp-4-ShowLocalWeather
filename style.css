@@ -1,0 +1,28 @@
+
+    div {
+	 margin-top: 5%;
+	 background-color: transparent;
+	}
+	body {
+	 background-image: url(https://yoxvew-bn1305.files.1drv.com/y3pgm86oMiWw4mS4PWO0iqjtjq1A8D4N7N2uLX4Aiz_2PU7_b8bi9jC7SUNeG6OFASQ69qtvWS3QQdFxqaDM8s-kpW5oG7LZTKIZ3ooZPh8kWz9ORRLX6n9__kcFzW_ZS_U3rDKAZE1gOJeM8m29R_Tem_crxn6mrRxOwQOmvGVuXA/rainy.jpg?psid=1);
+	 background-size: cover;
+	}
+	#header {	 
+	 color: darkgrey;
+	 font-weight: bold;
+	 padding-bottom: 5%;
+	}
+	p {
+	 font-weight: bold;
+	 color: white;
+	 font-size: 20px;
+	 padding-bottom: 3%;
+	}
+	#footer {
+	 color: white;
+	 font-size: 12px;
+	}
+	#temperature {
+	 text-decoration: underline; 
+	 cursor: pointer;
+	}
